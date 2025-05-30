@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center" > Hii, I'm Hrutika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<p>
+  
+</p>
 
-<!--
-**Ioxxox/Ioxxox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+![Tech Stack](https://img.shields.io/badge/YourTech-YourColor?style=for-the-badge&logo=YourLogo&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/AnotherTech-AnotherColor?style=for-the-badge&logo=AnotherLogo&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- [Something new you’re learning, e.g., Rust, Kubernetes]
+- [Another skill or technology]
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+
+- **[Project Name](https://github.com/yourusername/project-repo)** – Short description.
+- **[Another Project](https://github.com/yourusername/another-repo)** – Another short description.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+
+---
+
+## Fun Fact
+
+> "Here’s a fun fact about you or something interesting!"
+
