@@ -36,7 +36,7 @@
 
 ## 📫 How to Reach Me
 
-- **Email:** your.email@example.com
+- **Email:** 2024eem1011@iitrpr.ac.in
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
 - **Twitter:** [@yourusername](https://twitter.com/yourusername)
 
